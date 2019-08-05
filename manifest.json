@@ -11,7 +11,8 @@
                 "extensionStyle.css"
             ],
             "js": [
-                "content.js"
+                "content.js",
+                "jquery.min.js"
             ],
             "matches": [
                 "https://music.yandex.ru/*",
