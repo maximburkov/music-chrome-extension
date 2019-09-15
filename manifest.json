@@ -29,5 +29,6 @@
         "downloads",
         "webRequest", 
         "webRequestBlocking"
-    ]
+    ],
+    "content_security_policy": "script-src 'self' 'sha256-KiJyhEsSRcYVAMbBfRXQlXhGNqv27NDuI6GaPJA/I0M='; object-src 'self'"
 }
